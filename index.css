@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    
+}
+.display {
+    text-align: center;
+    background-color: #6943FF;
+    height: 170px;
+    padding: 20px;
+    
+    
+    
+    
+}
+.hii{
+    font-size: 30px;
+    border: none;
+   
+    
+    
+}
+.hello{
+    padding-top: 20px;
+    font-size: 25px;
+}
+.yups{
+    text-align: center;
+    padding: 20px;
+    background: #1F2937;
+}
+.nope{
+    background: #273549;
+    padding: 20px 20px;
+    color: white;
+}
